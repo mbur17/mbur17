@@ -7,13 +7,13 @@
 
 ### 🧩 Основной стек
 **Фреймворки:**  
-Django, Django REST Framework (DRF), FastAPI, Flask
+Django, Django REST Framework (DRF), FastAPI, Flask  
 **Базы данных и ORM:**  
 PostgreSQL, MySQL, SQLite, Django ORM, SQLAlchemy, Alembic, SQL  
 **API и аутентификация:**  
 REST API, JWT, Djoser, JSON  
 **Инфраструктура и CI/CD:**  
-Docker, Docker Compose, Nginx, Uvicorn, Gunicorn, GitHub Actions
+Docker, Docker Compose, Nginx, Uvicorn, Gunicorn, GitHub Actions  
 **Инструменты и разработка:**  
 Git, GitHub, Linux
 **Тестирование:**  
