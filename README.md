@@ -5,7 +5,7 @@
 
 ---
 
-### 🧩 Основной стек
+### Основной стек
 **Фреймворки:**  
 Django, Django REST Framework (DRF), FastAPI, Flask  
 **Базы данных и ORM:**  
