@@ -15,7 +15,7 @@ REST API, JWT, Djoser, JSON
 **Инфраструктура и CI/CD:**  
 Docker, Docker Compose, Nginx, Uvicorn, Gunicorn, GitHub Actions  
 **Инструменты и разработка:**  
-Git, GitHub, Linux
+Git, GitHub, Linux  
 **Тестирование:**  
 Pytest, Unittest
 
