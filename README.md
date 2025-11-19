@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  Python Backend Developer
+  🐍 Python Backend Developer
 </h1>
 
 <br clear="both">
@@ -27,9 +27,13 @@
   <img width="22"/>
 </div>
 
----
+### Обо мне
+- 💛 Люблю продуманный backend, чистый код и аккуратную архитектуру
+- 🔍 Разбираюсь → пробую → улучшаю… иногда даже документирую 😄
+- 🌱 Постепенно строю путь в разработке, шаг за шагом
+- 💬 Спрашивайте о чём угодно — если не знаю, погуглю красиво ([telegram](https://t.me/mbur17))
 
-### Мои проекты:
+### Проекты
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mbur17&repo=hr_bot_yandex_lavka)](https://github.com/mbur17/hr_bot_yandex_lavka)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mbur17&repo=food_recipes_app)](https://github.com/mbur17/food_recipes_app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mbur17&repo=charity_fund_api)](https://github.com/mbur17/charity_fund_api)
