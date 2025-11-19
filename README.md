@@ -28,5 +28,4 @@
 </div>
 
 ---
-
-⭐️ *Think clearly. Code simply.*
+## Мои проекты в Pinned ⬇️
