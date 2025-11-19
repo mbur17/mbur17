@@ -34,14 +34,17 @@
 - 💬 Спрашивайте о чём угодно — если не знаю, погуглю красиво ([telegram](https://t.me/mbur17))
 
 ### Проекты
-hr_bot_yandex_lavka
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mbur17&repo=hr_bot_yandex_lavka&theme=buefy" />
+<a href="https://github.com/mbur17/hr_bot_yandex_lavka">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mbur17&repo=hr_bot_yandex_lavka&theme=default&description_lines_count=2"/>
 </a>
 <a href="https://github.com/mbur17/food_recipes_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mbur17&repo=food_recipes_app&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mbur17&repo=food_recipes_app&theme=default&description_lines_count=2"/>
 </a>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mbur17&repo=charity_fund_api)](https://github.com/mbur17/charity_fund_api)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mbur17&repo=reviews_api)](https://github.com/mbur17/reviews_api)
-
+<a href="https://github.com/mbur17/charity_fund_api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mbur17&repo=charity_fund_api&theme=default&description_lines_count=2"/>
+</a>
+<a href="https://github.com/mbur17/reviews_api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mbur17&repo=reviews_api&theme=default&description_lines_count=2"/>
+</a>
+<br></br>
 ⭐️ Think clearly. Code simply.
