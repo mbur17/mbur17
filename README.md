@@ -34,7 +34,7 @@
 - 💬 Спрашивайте о чём угодно — если не знаю, погуглю красиво ([telegram](https://t.me/mbur17))
 
 ### Проекты
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mbur17&repo=hr_bot_yandex_lavka)](https://github.com/mbur17/hr_bot_yandex_lavka)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mbur17&repo=food_recipes_app)](https://github.com/mbur17/food_recipes_app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mbur17&repo=charity_fund_api)](https://github.com/mbur17/charity_fund_api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mbur17&repo=reviews_api)](https://github.com/mbur17/reviews_api)
