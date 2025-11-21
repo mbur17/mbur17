@@ -25,6 +25,8 @@
   <img width="22"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="50"/>
   <img width="22"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="50"/>
+  <img width="22"/>
 </div>
 
 ### Обо мне
