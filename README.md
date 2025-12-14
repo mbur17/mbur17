@@ -15,6 +15,8 @@
 - 💬 Ask anything — if I don't know, I'll Google it
 
 [![Telegram @mbur](https://img.shields.io/badge/Telegram-mbur17-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mbur17)
+[![Email](https://img.shields.io/badge/Email-m.buriakovsky@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.buriakovsky@gmail.com)
+[![Email](https://img.shields.io/badge/Email-maxbur17@yandex.ru-FFCC00?style=for-the-badge&logo=yandex&logoColor=FF0000)](mailto:maxbur17@yandex.ru)
 
 ## ⚙️ Tech Stack:
 | Category | Name |
@@ -28,7 +30,10 @@
 
 ## 💡 Projects
 
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mbur17&repo=hr_bot_yandex_lavka](https://github.com/mbur17/hr_bot_yandex_lavka)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mbur17&repo=hr_bot_yandex_lavka)](https://github.com/mbur17/hr_bot_yandex_lavka)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mbur17&repo=food_recipes_app)](https://github.com/mbur17/food_recipes_app)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mbur17&repo=charity_fund_api)](https://github.com/mbur17/charity_fund_api)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mbur17&repo=reviews_api)](https://github.com/mbur17/reviews_api)
 
 
 ⭐️ Think clearly. Code simply.
