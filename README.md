@@ -9,7 +9,7 @@
   Graduate of Moscow State University and Yandex Practicum
 </h4>
 
-## About me
+## 🤸 About me
 - 💻 Developer with a product perspective
 - 🌱 Learn → try → improve... sometimes even document
 - 💬 Ask anything — if I don't know, I'll Google it
