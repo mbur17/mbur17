@@ -1,6 +1,10 @@
 <h1 align="center"> 
-  🐍 Python Backend Developer
+  Hello there, I'm Maxim Buriakovsky
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
+<h3 align="center">
+  Python Backend Developer at <a href="https://drive.google.com/file/d/11YJnAvyMKlkLLgEKrpXcqZLL-1ER41KZ/view?usp=sharing">your company could be here</a>
+</h3>
 
 <br clear="both">
 
@@ -27,7 +31,7 @@
   <img width="22"/>
 </div>
 
-### Обо мне
+### About me
 - 🎯 Разработчик с продуктовым взглядом: люблю, когда код решает реальные задачи
 - 🔍 Разбираюсь → пробую → улучшаю… иногда даже документирую
 - 🌱 Постепенно строю путь в разработке, шаг за шагом
