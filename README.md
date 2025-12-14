@@ -5,6 +5,9 @@
 <h3 align="center">
   Python Backend Developer at <a href="https://drive.google.com/file/d/11YJnAvyMKlkLLgEKrpXcqZLL-1ER41KZ/view?usp=sharing">your company could be here</a>
 </h3>
+<h4 align="center">
+  Graduate of Moscow State University and Yandex Practicum
+</h4>
 
 <br clear="both">
 
@@ -32,10 +35,11 @@
 </div>
 
 ### About me
-- 🎯 Разработчик с продуктовым взглядом: люблю, когда код решает реальные задачи
-- 🔍 Разбираюсь → пробую → улучшаю… иногда даже документирую
-- 🌱 Постепенно строю путь в разработке, шаг за шагом
-- 💬 Спрашивайте о чём угодно — если не знаю, погуглю красиво ([telegram](https://t.me/mbur17))
+- 💻 Developer with a product perspective
+- 🌱 Learn → try → improve... sometimes even document
+- 💬 Ask anything — if I don't know, I'll Google it
+
+[![Telegram @mbur](https://img.shields.io/badge/Telegram-mbur17-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mbur17)
 
 | Проекты |
 |:---|
