@@ -29,7 +29,7 @@
 | **Git** |![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)|
 
 ## 💡 Projects
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mbur17&repo=telegram-analytics-bot)](https://github.com/mbur17/telegram-analytics-bo)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mbur17&repo=telegram-analytics-bo)](https://github.com/mbur17/telegram-analytics-bot)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mbur17&repo=hr_bot_yandex_lavka)](https://github.com/mbur17/hr_bot_yandex_lavka)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mbur17&repo=food_recipes_app)](https://github.com/mbur17/food_recipes_app)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mbur17&repo=charity_fund_api)](https://github.com/mbur17/charity_fund_api)
