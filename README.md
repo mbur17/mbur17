@@ -31,10 +31,10 @@
 
 ## 💡 My projects
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mbur17&repo=telegram-analytics-bot)](https://github.com/mbur17/telegram-analytics-bot)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mbur17&repo=hr_bot_yandex_lavka)](https://github.com/mbur17/hr_bot_yandex_lavka)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mbur17&repo=hr_bot_zavod)](https://github.com/mbur17/hr_bot_zavod)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mbur17&repo=food_recipes_app)](https://github.com/mbur17/food_recipes_app)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mbur17&repo=charity_fund_api)](https://github.com/mbur17/charity_fund_api)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mbur17&repo=reviews_api)](https://github.com/mbur17/reviews_api)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mbur17&repo=reviews_api_mvp)](https://github.com/mbur17/reviews_api_mvp)
 
 
 ⭐️ Think clearly. Code simply.
