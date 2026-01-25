@@ -3,10 +3,10 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 <h3 align="center">
-  Python Backend Developer at <<a href="">your company could be here</a>>
+  Python Backend Developer
 </h3>
 <h4 align="center">
-  Graduate of MSUBS and Yandex Practicum
+  Graduate of MSUBS
 </h4>
 
 ## 🤸 About me
@@ -29,7 +29,7 @@
 | **CI** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Docker-compose](https://img.shields.io/badge/Docker-Compose-blue?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)|
 | **Git** |![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)|
 
-## 💡 Projects
+## 💡 My projects
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mbur17&repo=telegram-analytics-bot)](https://github.com/mbur17/telegram-analytics-bot)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mbur17&repo=hr_bot_yandex_lavka)](https://github.com/mbur17/hr_bot_yandex_lavka)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mbur17&repo=food_recipes_app)](https://github.com/mbur17/food_recipes_app)
