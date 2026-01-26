@@ -29,12 +29,4 @@
 | **CI** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Docker-compose](https://img.shields.io/badge/Docker-Compose-blue?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)|
 | **Git** |![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)|
 
-## 💡 My projects
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mbur17&repo=telegram-analytics-bot)](https://github.com/mbur17/telegram-analytics-bot)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mbur17&repo=hr_bot_zavod)](https://github.com/mbur17/hr_bot_zavod)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mbur17&repo=travelhub_app)](https://github.com/mbur17/travelhub_app)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mbur17&repo=charity_fund_api)](https://github.com/mbur17/charity_fund_api)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mbur17&repo=reviews_api_mvp)](https://github.com/mbur17/reviews_api_mvp)
-
-
 ⭐️ Think clearly. Code simply.
