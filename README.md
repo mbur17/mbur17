@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  Hello there, I'm Maxim Buriakovsky
+  Hello there, I'm Maxim Buriakovsky!
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 <h3 align="center">
@@ -10,7 +10,7 @@
 </h4>
 
 ## 🤸 About me
-- 💻 Developer with a product perspective
+- 💻 I'm lovin' IT!
 - 🌱 Learn → try → improve... sometimes even document
 - 💬 Ask anything — if I don't know, I'll Google it
 
